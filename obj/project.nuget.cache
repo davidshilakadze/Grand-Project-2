@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJd7pwidaKQ=",
+  "dgSpecHash": "ePI/pylm90g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\Grand Project 2.csproj",
+  "projectFilePath": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\GrandProjectV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adome\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adome\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

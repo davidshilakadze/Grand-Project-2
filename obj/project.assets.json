@@ -5142,6 +5142,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.3",
+      "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.3",
       "Swashbuckle.AspNetCore >= 8.0.0"
@@ -5153,9 +5154,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\Grand Project 2.csproj",
-      "projectName": "Grand Project 2",
-      "projectPath": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\Grand Project 2.csproj",
+      "projectUniqueName": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\GrandProjectV2.csproj",
+      "projectName": "GrandProjectV2",
+      "projectPath": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\GrandProjectV2.csproj",
       "packagesPath": "C:\\Users\\adome\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\adome\\source\\repos\\Grand-Project-2\\obj\\",
       "projectStyle": "PackageReference",
@@ -5193,6 +5194,12 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.3, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.3, )"
           },

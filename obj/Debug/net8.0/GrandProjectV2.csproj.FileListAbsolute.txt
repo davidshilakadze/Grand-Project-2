@@ -1,0 +1,7 @@
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.csproj.AssemblyReference.cache
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.AssemblyInfoInputs.cache
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.AssemblyInfo.cs
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.csproj.CoreCompileInputs.cache
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.MvcApplicationPartsAssemblyInfo.cs
+D:\Datas programireba\GrandProjectV2\obj\Debug\net8.0\GrandProjectV2.MvcApplicationPartsAssemblyInfo.cache
